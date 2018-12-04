@@ -1,0 +1,101 @@
+#contenedor { background-color: gainsboro;
+                margin: 0px;  padding: 0px}
+
+                body{
+                  background-color: #cfd8dc; 
+                }
+
+  #imagen img{ 
+    margin: 0px;
+  padding: 0px;
+width: 200px;
+
+border: 10px solid #fff;
+border-radius: 50px;
+margin-bottom: 15px;
+}
+
+#titulo1 {margin: 0px;
+padding: 0px;
+width: 420px;
+height: 36.8px;
+font-family: 'Acme', sans-serif;}
+
+
+.tarjeta {
+  padding: 10px;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+  border: 1px solid black;
+  vertical-align: top;
+  
+ color: #474444;
+  margin-bottom: 0px;
+  margin-top: 1px;
+}
+
+.tarjeta2 {
+  padding: 10px;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+  border: 1px solid black;
+  vertical-align: top;
+  text-shadow: 1px 1px 0px #F5F5F5;
+  color: #474444;
+  margin-bottom: 0px;
+  margin-top: 1px;
+}
+li  { list-style-type: none;}
+ ul { list-style-type: none;}
+
+
+ .tarjeta3 {
+  padding: 10px;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #fff;
+  border: 1px solid black;
+  vertical-align: top;
+  text-shadow: 1px 1px 0px #F5F5F5;
+  color: #474444;
+  margin-bottom: 0px;
+  margin-top: 1px;
+ }
+
+.btn-secondary {color: black !important}
+h2 {
+  font-family: 'Acme', sans-serif;
+}
+
+h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 20px
+}
+
+p {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+ h2 {
+  font-family: 'Acme', sans-serif;
+}
+
+h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 20px
+}
+
+p {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+li span { font-family: 'Shadows Into Light', cursive;
+font-size: 20px;}
